@@ -1,0 +1,53 @@
+[
+    {
+      "title": "What is the capital of France?",
+      "options": ["Berlin", "Paris", "Madrid", "Rome"],
+      "answer": "B"
+    },
+    {
+      "title": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "answer": "A"
+    },
+    {
+      "title": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "B"
+    },
+    {
+      "title": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "B"
+    },
+  {
+      "title": "Which year did the United States gain independence?",
+      "options": ["1776", "1789", "1801", "1812"],
+      "answer": "A"
+    },
+    {
+      "title": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "C"
+    },
+    {
+      "title": "Who is the author of 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "George Orwell"],
+      "answer": "A"
+    },
+    {
+      "title": "In what year did the Titanic sink?",
+      "options": ["1912", "1905", "1920", "1931"],
+      "answer": "A"
+    },
+    {
+      "title": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "D"
+    },
+    {
+      "title": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "answer": "B"
+    }
+  ]
+    
